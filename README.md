@@ -20,6 +20,19 @@ It runs anywhere that runs Node.js 22 or later. On
 [Gregale](https://gregale.dev), it pauses about a second after the last
 request and wakes on the next one.
 
+## Try the live demo
+
+This repo is deployed as-is at `https://mcp-server-node.gregale.app/mcp`.
+Add it to any MCP client that supports remote servers, for example Claude
+Code:
+
+```sh
+claude mcp add --transport http gregale-demo https://mcp-server-node.gregale.app/mcp
+```
+
+Then ask your agent to greet you or add two numbers. The demo has only the
+example tools and needs no sign-in.
+
 ## Run it locally
 
 ```sh
