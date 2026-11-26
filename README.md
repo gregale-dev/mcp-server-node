@@ -1,5 +1,7 @@
 # Remote MCP server in Node.js that scales to zero
 
+[![Deploy on Gregale](https://gregale.dev/deploy-badge.svg)](https://gregale.dev/deploy?repo=https://github.com/gregale-dev/mcp-server-node)
+
 A remote [Model Context Protocol](https://modelcontextprotocol.io) server for
 Claude, ChatGPT, Cursor, Codex and any other client that speaks Streamable
 HTTP. It's built on the official MCP TypeScript SDK and Express, and comes
