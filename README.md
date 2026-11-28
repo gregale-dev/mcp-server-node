@@ -98,6 +98,14 @@ details.
 `AGENTS.md` tells Codex, Cursor, Claude Code and other agents how to build,
 test and deploy this server with the `gregale` CLI.
 
+## Guides
+
+On [gregale.dev](https://gregale.dev):
+
+- [Where to host an MCP server](https://gregale.dev/articles/mcp-server-hosting)
+- [Host a TypeScript MCP server with OAuth 2.1 on scale-to-zero microVMs](https://gregale.dev/articles/host-typescript-mcp-server-oauth-scale-to-zero)
+- [Hosting platforms with an MCP server that deploys, reads logs and rolls back](https://gregale.dev/articles/hosting-mcp-server-deploy-logs-rollback)
+
 ## License
 
 MIT
